@@ -1,4 +1,4 @@
-# Contract Clause Reviewer
+# ClauseGuard
 
 A local-first tool that flags common risky clauses in contracts / Terms of
 Service, using keyword retrieval + local LLM verification via Ollama.
